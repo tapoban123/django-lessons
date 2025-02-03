@@ -1,5 +1,7 @@
 # Learning Django
 
+### Learning from [YouTube](https://www.youtube.com/playlist?list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk) playlist.
+
 1. Install [virutalenv](https://virtualenv.pypa.io/en/latest/user_guide.html)
    ```
    pip install virtualenv
